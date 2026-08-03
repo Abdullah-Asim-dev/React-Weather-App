@@ -1,16 +1,134 @@
-# React + Vite
+````md
+# 🌤️ WeatherApp - Real-Time Weather Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern **React Weather Application** that provides real-time weather information for any city around the world. Built with a clean UI, glassmorphism design, smooth animations, and Weather API integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Links
 
-## React Compiler
+🌐 **Live Demo:** https://cute-pudding-3290f3.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💻 **GitHub:** https://github.com/Abdullah-Asim-dev
 
-## Expanding the Oxlint configuration
+👤 **LinkedIn:** https://www.linkedin.com/in/abdullah-asim-dev/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🚀 Features
+
+✨ Search weather by city name
+
+🌡️ Real-time temperature information
+
+🌤️ Weather condition display
+
+💧 Humidity details
+
+🌬️ Wind speed information
+
+🔥 Feels-like temperature
+
+🎨 Premium glassmorphism UI
+
+⚡ Smooth animations and hover effects
+
+📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* Axios
+* CSS3
+* Weather API
+
+---
+
+## 📸 Screenshots
+
+(Add your app screenshots here)
+
+```text
+/screenshots
+   ├── home.png
+   └── weather-result.png
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/weather-ai.git
+```
+
+Go to project folder:
+
+```bash
+cd weather-ai
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🔑 API Setup
+
+This project uses Weather API.
+
+Create an API key from WeatherAPI.
+
+Add your API key inside the axios request:
+
+```javascript
+https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=CITY
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+WeatherAI
+│
+├── src
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Abdullah Asim**
+
+Mern Stack Developer | React Developer
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
+````
