@@ -1,17 +1,38 @@
+
 # 🌤️ WeatherApp - Real-Time Weather Application
 
 A modern **React Weather Application** that provides real-time weather information for any city around the world. Built with a clean UI, glassmorphism design, smooth animations, and Weather API integration.
 
+---
+
+## 🔗 Links
+
+🌐 **Live Demo:** https://cute-pudding-3290f3.netlify.app/
+
+💻 **GitHub:** https://github.com/Abdullah-Asim-dev
+
+👤 **LinkedIn:** https://www.linkedin.com/in/abdullah-asim-dev/
+
+---
+
 ## 🚀 Features
 
 ✨ Search weather by city name
+
 🌡️ Real-time temperature information
+
 🌤️ Weather condition display
+
 💧 Humidity details
+
 🌬️ Wind speed information
+
 🔥 Feels-like temperature
+
 🎨 Premium glassmorphism UI
+
 ⚡ Smooth animations and hover effects
+
 📱 Fully responsive design
 
 ---
@@ -110,3 +131,4 @@ Mern Stack Developer | React Developer
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
+````
