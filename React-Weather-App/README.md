@@ -1,4 +1,4 @@
-````md
+
 # 🌤️ WeatherApp - Real-Time Weather Application
 
 A modern **React Weather Application** that provides real-time weather information for any city around the world. Built with a clean UI, glassmorphism design, smooth animations, and Weather API integration.
